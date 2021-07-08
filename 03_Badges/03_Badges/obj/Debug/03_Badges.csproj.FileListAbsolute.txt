@@ -1,0 +1,7 @@
+C:\Users\NATEA\OneDrive\Desktop\C#Classwork\Projects\GoldBadgeChallenges\03_Badges\03_Badges\obj\Debug\03_Badges.csproj.AssemblyReference.cache
+C:\Users\NATEA\OneDrive\Desktop\C#Classwork\Projects\GoldBadgeChallenges\03_Badges\03_Badges\obj\Debug\03_Badges.csproj.CoreCompileInputs.cache
+C:\Users\NATEA\OneDrive\Desktop\C#Classwork\Projects\GoldBadgeChallenges\03_Badges\03_Badges\bin\Debug\03_Badges.exe.config
+C:\Users\NATEA\OneDrive\Desktop\C#Classwork\Projects\GoldBadgeChallenges\03_Badges\03_Badges\bin\Debug\03_Badges.exe
+C:\Users\NATEA\OneDrive\Desktop\C#Classwork\Projects\GoldBadgeChallenges\03_Badges\03_Badges\bin\Debug\03_Badges.pdb
+C:\Users\NATEA\OneDrive\Desktop\C#Classwork\Projects\GoldBadgeChallenges\03_Badges\03_Badges\obj\Debug\03_Badges.exe
+C:\Users\NATEA\OneDrive\Desktop\C#Classwork\Projects\GoldBadgeChallenges\03_Badges\03_Badges\obj\Debug\03_Badges.pdb
