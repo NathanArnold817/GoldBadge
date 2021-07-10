@@ -1,0 +1,17 @@
+C:\Users\NATEA\OneDrive\Desktop\C#Classwork\Projects\GoldBadgeChallenges\03_Badges\03_Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\NATEA\OneDrive\Desktop\C#Classwork\Projects\GoldBadgeChallenges\03_Badges\03_Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\NATEA\OneDrive\Desktop\C#Classwork\Projects\GoldBadgeChallenges\03_Badges\03_Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\NATEA\OneDrive\Desktop\C#Classwork\Projects\GoldBadgeChallenges\03_Badges\03_Tests\bin\Debug\03_Tests.dll
+C:\Users\NATEA\OneDrive\Desktop\C#Classwork\Projects\GoldBadgeChallenges\03_Badges\03_Tests\bin\Debug\03_Tests.pdb
+C:\Users\NATEA\OneDrive\Desktop\C#Classwork\Projects\GoldBadgeChallenges\03_Badges\03_Tests\bin\Debug\03_Badges.exe
+C:\Users\NATEA\OneDrive\Desktop\C#Classwork\Projects\GoldBadgeChallenges\03_Badges\03_Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\NATEA\OneDrive\Desktop\C#Classwork\Projects\GoldBadgeChallenges\03_Badges\03_Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\NATEA\OneDrive\Desktop\C#Classwork\Projects\GoldBadgeChallenges\03_Badges\03_Tests\bin\Debug\03_Badges.pdb
+C:\Users\NATEA\OneDrive\Desktop\C#Classwork\Projects\GoldBadgeChallenges\03_Badges\03_Tests\bin\Debug\03_Badges.exe.config
+C:\Users\NATEA\OneDrive\Desktop\C#Classwork\Projects\GoldBadgeChallenges\03_Badges\03_Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\NATEA\OneDrive\Desktop\C#Classwork\Projects\GoldBadgeChallenges\03_Badges\03_Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\NATEA\OneDrive\Desktop\C#Classwork\Projects\GoldBadgeChallenges\03_Badges\03_Tests\obj\Debug\03_Tests.csproj.AssemblyReference.cache
+C:\Users\NATEA\OneDrive\Desktop\C#Classwork\Projects\GoldBadgeChallenges\03_Badges\03_Tests\obj\Debug\03_Tests.csproj.CoreCompileInputs.cache
+C:\Users\NATEA\OneDrive\Desktop\C#Classwork\Projects\GoldBadgeChallenges\03_Badges\03_Tests\obj\Debug\03_Tests.csproj.CopyComplete
+C:\Users\NATEA\OneDrive\Desktop\C#Classwork\Projects\GoldBadgeChallenges\03_Badges\03_Tests\obj\Debug\03_Tests.dll
+C:\Users\NATEA\OneDrive\Desktop\C#Classwork\Projects\GoldBadgeChallenges\03_Badges\03_Tests\obj\Debug\03_Tests.pdb

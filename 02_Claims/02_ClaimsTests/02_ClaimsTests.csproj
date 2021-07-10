@@ -56,8 +56,8 @@
     <None Include="packages.config" />
   </ItemGroup>
   <ItemGroup>
-    <ProjectReference Include="..\..\..\Claims\Claims.csproj">
-      <Project>{A0806A97-8E21-4E82-84D9-6043271908A0}</Project>
+    <ProjectReference Include="..\02_Claims\Claims.csproj">
+      <Project>{0693C45A-15E6-4443-B99C-D6B18955C5BD}</Project>
       <Name>Claims</Name>
     </ProjectReference>
   </ItemGroup>

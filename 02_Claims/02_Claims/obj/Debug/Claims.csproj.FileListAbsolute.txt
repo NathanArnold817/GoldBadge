@@ -1,0 +1,7 @@
+C:\Users\NATEA\OneDrive\Desktop\C#Classwork\Projects\GoldBadgeChallenges\02_Claims\02_Claims\bin\Debug\02_Claims.exe.config
+C:\Users\NATEA\OneDrive\Desktop\C#Classwork\Projects\GoldBadgeChallenges\02_Claims\02_Claims\bin\Debug\02_Claims.exe
+C:\Users\NATEA\OneDrive\Desktop\C#Classwork\Projects\GoldBadgeChallenges\02_Claims\02_Claims\bin\Debug\02_Claims.pdb
+C:\Users\NATEA\OneDrive\Desktop\C#Classwork\Projects\GoldBadgeChallenges\02_Claims\02_Claims\obj\Debug\Claims.csproj.AssemblyReference.cache
+C:\Users\NATEA\OneDrive\Desktop\C#Classwork\Projects\GoldBadgeChallenges\02_Claims\02_Claims\obj\Debug\Claims.csproj.CoreCompileInputs.cache
+C:\Users\NATEA\OneDrive\Desktop\C#Classwork\Projects\GoldBadgeChallenges\02_Claims\02_Claims\obj\Debug\02_Claims.exe
+C:\Users\NATEA\OneDrive\Desktop\C#Classwork\Projects\GoldBadgeChallenges\02_Claims\02_Claims\obj\Debug\02_Claims.pdb

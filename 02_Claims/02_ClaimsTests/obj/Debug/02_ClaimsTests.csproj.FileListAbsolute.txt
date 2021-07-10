@@ -12,6 +12,6 @@ C:\Users\NATEA\OneDrive\Desktop\C#Classwork\Projects\GoldBadgeChallenges\02_Clai
 C:\Users\NATEA\OneDrive\Desktop\C#Classwork\Projects\GoldBadgeChallenges\02_Claims\02_ClaimsTests\obj\Debug\02_ClaimsTests.csproj.CopyComplete
 C:\Users\NATEA\OneDrive\Desktop\C#Classwork\Projects\GoldBadgeChallenges\02_Claims\02_ClaimsTests\obj\Debug\02_ClaimsTests.dll
 C:\Users\NATEA\OneDrive\Desktop\C#Classwork\Projects\GoldBadgeChallenges\02_Claims\02_ClaimsTests\obj\Debug\02_ClaimsTests.pdb
-C:\Users\NATEA\OneDrive\Desktop\C#Classwork\Projects\GoldBadgeChallenges\02_Claims\02_ClaimsTests\bin\Debug\Claims.exe
-C:\Users\NATEA\OneDrive\Desktop\C#Classwork\Projects\GoldBadgeChallenges\02_Claims\02_ClaimsTests\bin\Debug\Claims.pdb
-C:\Users\NATEA\OneDrive\Desktop\C#Classwork\Projects\GoldBadgeChallenges\02_Claims\02_ClaimsTests\bin\Debug\Claims.exe.config
+C:\Users\NATEA\OneDrive\Desktop\C#Classwork\Projects\GoldBadgeChallenges\02_Claims\02_ClaimsTests\bin\Debug\02_Claims.exe
+C:\Users\NATEA\OneDrive\Desktop\C#Classwork\Projects\GoldBadgeChallenges\02_Claims\02_ClaimsTests\bin\Debug\02_Claims.pdb
+C:\Users\NATEA\OneDrive\Desktop\C#Classwork\Projects\GoldBadgeChallenges\02_Claims\02_ClaimsTests\bin\Debug\02_Claims.exe.config
